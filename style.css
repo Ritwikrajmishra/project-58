@@ -1,0 +1,60 @@
+body{
+  text-align : center;
+}
+img{
+  border-radius : 50%;
+  width : 100px;
+}
+html{
+  background : linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+  background-repeat : no-repeat;
+  height : 620px
+}
+.menu{
+    list-style : none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+#myname{
+    font-family: 'Audiowide', cursive;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+li{
+    display: inline;
+    float: left;
+}
+ul {
+list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+h2{
+    font-family: cursive;
+    font-style: oblique;
+}
+.link:hover{
+    background-color: hotpink;
+}
+li{
+    display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+  
+
